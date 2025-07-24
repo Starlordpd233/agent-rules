@@ -1,8 +1,3 @@
-# Combined Agent Rules
-
-This document consolidates selected rule guides from the **agent-rules** repository. Copy the relevant sections into your `CLAUDE.md` or reference them using `@import`.
-
----
 
 ## Commit
 
